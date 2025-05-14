@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "800148934245",
+    "firebase_url": "https://flappybird-dd83d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flappybird-dd83d",
+    "storage_bucket": "flappybird-dd83d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800148934245:android:660fddcb5c373a3316008c",
+        "android_client_info": {
+          "package_name": "com.example.flappybirdnikitakajurins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtcvA1Ae9Q3xIzcLbqwtG2qY42wwsntTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
